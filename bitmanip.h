@@ -1,4 +1,4 @@
-#include <bitset>
+#include <math.h>
 
 // count total bits
 int countbits(int value) {
